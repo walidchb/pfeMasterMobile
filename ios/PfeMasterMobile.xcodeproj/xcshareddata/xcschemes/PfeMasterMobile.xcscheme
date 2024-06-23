@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "PfeMasterMobile.app"
-               BlueprintName = "PfeMasterMobile"
-               ReferencedContainer = "container:PfeMasterMobile.xcodeproj">
+               BuildableName = "pfemastermobile.app"
+               BlueprintName = "pfemastermobile"
+               ReferencedContainer = "container:pfemastermobile.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "PfeMasterMobileTests.xctest"
-               BlueprintName = "PfeMasterMobileTests"
-               ReferencedContainer = "container:PfeMasterMobile.xcodeproj">
+               BuildableName = "pfemastermobileTests.xctest"
+               BlueprintName = "pfemastermobileTests"
+               ReferencedContainer = "container:pfemastermobile.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PfeMasterMobile.app"
-            BlueprintName = "PfeMasterMobile"
-            ReferencedContainer = "container:PfeMasterMobile.xcodeproj">
+            BuildableName = "pfemastermobile.app"
+            BlueprintName = "pfemastermobile"
+            ReferencedContainer = "container:pfemastermobile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "PfeMasterMobile.app"
-            BlueprintName = "PfeMasterMobile"
-            ReferencedContainer = "container:PfeMasterMobile.xcodeproj">
+            BuildableName = "pfemastermobile.app"
+            BlueprintName = "pfemastermobile"
+            ReferencedContainer = "container:pfemastermobile.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

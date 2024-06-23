@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628982579083",
+    "project_id": "pfemaster-ad550",
+    "storage_bucket": "pfemaster-ad550.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628982579083:android:82ddb73dcc5570c170798e",
+        "android_client_info": {
+          "package_name": "com.pfemastermobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9Ww4IRz4csmSMBTrM69in5zNWwTSXV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628982579083:android:f4b0d0886852752f70798e",
+        "android_client_info": {
+          "package_name": "pfe.master.mobile_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu9Ww4IRz4csmSMBTrM69in5zNWwTSXV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -21,7 +21,7 @@ const BoardScreen = ({ navigation }) => {
   const [userInfo, setUserInfo] = useState({})
   const [organization, setOrganization] = useState({})
   const [teamId, setTeamId] = useState(null)
-  const [reload, setReload] = useState(false) // State to trigger rerender
+  const [reload, setReload] = useState(false) // State to trigger rerend
   const [projects, setProjects] = useState([])
 
   const [allTasks, setAllTasks] = useState([])
